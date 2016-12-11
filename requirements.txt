@@ -5,3 +5,4 @@ requests
 pandas
 jupyter
 neuropower
+matplotlib
