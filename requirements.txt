@@ -1,9 +1,10 @@
 numpy
+scipy
+matplotlib
+pandas
 biopython
 xlrd
 requests
-pandas
 jupyter
 neuropower
-matplotlib
 palettable
